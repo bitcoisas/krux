@@ -1,4 +1,4 @@
-# Changelog 25.XX.X - XXX 2025
+# Changelog 26.03.0 - March 2025
 
 ### New Device Support: Embed Fire
 This device shares similarities with the WonderMV but stands out with its larger 2.4" touchscreen.
